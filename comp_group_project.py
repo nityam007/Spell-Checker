@@ -41,18 +41,3 @@ print(joint_words)
 
    
 
-    
-    
-
-''' a=input('enter some text')  
-s=a.split() 
-for i in s: 
-    if i=='ayush': 
-        print('you meant aayush ?') 
-        value=int(input('enter 1 if yes 0 if false')) 
-        if value==1: 
-            s.insert(s.index('ayush'),q['ayush']) 
-            s.pop(s.index('ayush'))
-            
-e=' '.join(s) 
-print(e) '''
